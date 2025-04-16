@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abdul Hafeez 👋
 
-<!--
-**abdul-hafeez12/abdul-hafeez12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineer** | 💻 Web Developer  
+🔧 Specializing in building scalable full-stack applications with modern tech  
+🚀 Passionate about clean code, backend architecture, and solving real-world problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Frontend**: React.js, Next.js, Vue.js,
+- - **State Management:** XState (Finite State Machines), Redux  
+- **Backend**: Node.js, Express.js, Java, Spring Boot, Quarkus
+- **Database**: MongoDB, MySQL, IBM DB2
+- **DevOps & Tools:** Docker | Kubernetes | Git | GitHub
+
+
+---
+
+
