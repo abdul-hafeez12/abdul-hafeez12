@@ -1,7 +1,7 @@
 # Hi, I'm Abdul Hafeez 👋
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/abdul-hafeez12">
     <img src="https://komarev.com/ghpvc/?username=abdul-hafeez12&style=flat-square&color=blue" alt="profile views" />
   </a>
 </p>
