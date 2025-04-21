@@ -1,5 +1,11 @@
 # Hi, I'm Abdul Hafeez 👋
 
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=abdul-hafeez12&style=flat-square&color=blue" alt="profile views" />
+  </a>
+</p>
+
 🎓 **Software Engineer** | 💻 Web Developer  
 🔧 Specializing in building scalable full-stack applications with modern tech  
 🚀 Passionate about clean code, backend architecture, and solving real-world problems
