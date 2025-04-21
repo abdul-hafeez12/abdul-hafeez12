@@ -25,7 +25,7 @@ Check out my work here 👉 [My Portfolio](https://abdulhafeez-porfolio-gold.ver
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-hafeez-12&show_icons=true&theme=radical" alt="Abdul Hafeez's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-hafeez12&show_icons=true&theme=radical" alt="Abdul Hafeez's GitHub stats" />
 </p>
 
 ## 🛠 Tech Stack
