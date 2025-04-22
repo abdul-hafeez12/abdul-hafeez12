@@ -13,7 +13,7 @@
 ---
 
 ### 🌐 Portfolio
-Check out my work here 👉 [My Portfolio](https://abdulhafeez-porfolio-gold.vercel.app/)
+Check out my work here 👉 [My Portfolio](https://abdulhafeez-portfolio.vercel.app/)
 
 #### ⚙️ Backend & Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
