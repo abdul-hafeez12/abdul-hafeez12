@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5233F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abdul+Hafeez+%F0%9F%91%8B)](https://git.io/typing-svg)
+#                                      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5233F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abdul+Hafeez+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/abdul-hafeez12">
