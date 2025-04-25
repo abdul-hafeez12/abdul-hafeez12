@@ -1,5 +1,5 @@
 
-<p style="center;">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5233F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abdul+Hafeez+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
@@ -9,6 +9,8 @@
     <img src="https://komarev.com/ghpvc/?username=abdul-hafeez12&style=flat-square&color=blue" alt="profile views" />
   </a>
 </p>
+
+---
 
 🎓 **Software Engineer** | 💻 Web Developer  
 🔧 Specializing in building scalable full-stack applications with modern tech  
